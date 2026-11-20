@@ -1,0 +1,17 @@
+commit c7baee0d7e2a3b46a3ec6f3d1eb41fde3862f2ea
+Author: Andrew Smith <andrewrs2008@gmail.com>
+Date:   Thu Nov 19 20:37:25 2026 -0500
+
+    uploading files
+
+commit b6c644f6f7698cf428528af5cef0c9c712f15b08
+Author: Andrew Smith <167213336+BestLifeDrew@users.noreply.github.com>
+Date:   Mon Nov 2 21:07:21 2026 -0500
+
+    Create index.html
+
+commit 4aa0e5e03fb92839f267491223cce7c43ce91050
+Author: Andrew Smith <167213336+BestLifeDrew@users.noreply.github.com>
+Date:   Mon Nov 2 21:01:39 2026 -0500
+
+    Initial commit
